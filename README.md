@@ -1,6 +1,6 @@
 <!-- Layan's README.md -->
 
-# Hello there 👋, my name is Layan Almegbil
+# Hello there 👋!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](http://www.linkedin.com/in/layan-almegbil)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:almegbil.layan@gmail.com)
