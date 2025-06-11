@@ -2,9 +2,8 @@
 
 # Hello there 👋!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](http://www.linkedin.com/in/layan-almegbil)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:almegbil.layan@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/LayanAlmegbil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-almegbil)
+[![Email](https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&style=for-the-badge)](mailto:almegbil.layan@gmail.com)
 
 ## About Me
 
