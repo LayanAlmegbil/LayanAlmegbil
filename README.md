@@ -25,5 +25,5 @@ Outside the technical space, I enjoy simplifying complex ideas, exploring new to
 
 ## 📈 GitHub Stats
 
-![Layan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Layan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LayanAlmegbil&show_icons=true&theme=tokyonight)
 
